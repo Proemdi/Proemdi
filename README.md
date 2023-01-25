@@ -14,7 +14,7 @@
 ## 💻 Projects
 * [Mini portfolio (Plantilla simple portfolio)](https://proemdi.github.io/portfolio/)
 * [Aplicacion clima (Api rest simple del clime)](https://proemdi.github.io/Aplicacion-clima/)
-* [Primera pagina web (Pagina web para dar curso de CSS)](https://suyash-srivastava.github.io/suyashsrivastava/Notes)
+* [Primera pagina web (Pagina web para dar curso de CSS)](https://proemdi.github.io/)
 * [Pagina web Bunter (Pagina para cliente diseñador)](https://proemdi.github.io/munter-dise-o.io/)
 * [Portfolio](#)
   
