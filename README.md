@@ -19,9 +19,22 @@
 * [Portfolio](#)
   
   ## ⚡ Technologies 
-- Front-end development using **HTML5, Javascript, CSS, Bootstrap, React**
+- Front-end development using **HTML5, Javascript, CSS, Bootstrap, React** 
 - Backend development using **JavaScript, React, Node.js**
 - Worked with **CorelDraw, Canva**
 - Leaning Web Resposive 
 - Solving problem and algorithm questions in **Javascrip**
+  <p align="right">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  </p>
 
